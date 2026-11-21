@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+state.json
+status.json
+config.json
+skills-manifest.json
+HALT
